@@ -1,6 +1,4 @@
-Here’s a README file for your **MyLoc Amenities Finder** project:
 
----
 
 # MyLoc Amenities Finder
 
